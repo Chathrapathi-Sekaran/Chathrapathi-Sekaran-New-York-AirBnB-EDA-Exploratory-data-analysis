@@ -1,1 +1,1 @@
-# Chathrapathi-Sekaran-New-York-AirBnB-EDA-Exploratory-data-analysis
+# New-York-AirBnB-EDA-Exploratory-data-analysis
